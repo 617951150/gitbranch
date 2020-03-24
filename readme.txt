@@ -1,1 +1,1 @@
-Creating a new branch is quickk & simple.
+Creating a new branch is quickk and simple.
